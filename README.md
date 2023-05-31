@@ -1,4 +1,4 @@
-# Power-BI-Projects
+### Power-BI-Projects
 
 👋 Welcome to my Power BI projects repository! Here you will find a collection of all the links to my latest Power BI projects in one place.
 
